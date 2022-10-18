@@ -1,0 +1,30 @@
+
+
+#banner { 
+    width: 100%;
+}
+
+body{
+    background: #fcebc6;
+    margin: 0;
+     
+}
+
+h1 {
+    text-align: center ;
+    font-family: 'Alkalami', serif;
+
+}
+
+
+p{
+    text-align: center;          
+}
+
+#missao {
+    font-size: 20px;
+}
+
+#pcor {
+    color:yellow;
+}
